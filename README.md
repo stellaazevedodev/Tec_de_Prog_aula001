@@ -5,4 +5,6 @@ Data: 02/03/2025
 * Entendendo Conceitos de Progrmação Orientada a Objetos (POO)
 *** 
 **Anotações da Aula:**  
-Um objeto vai ter atribuitos = "Caracteristicas" e Métodos = O que ele vai fazer
+Um objeto vai ter:  
+Atribuitos = "Caracteristicas"  
+Métodos = O que ele vai fazer
